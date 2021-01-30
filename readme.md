@@ -2,4 +2,3 @@
 - another line
 - update
 - Tak
-- Nie
