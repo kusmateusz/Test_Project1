@@ -2,4 +2,4 @@
 - another line
 - update
 - Tak
-- pbd
+- Nie
