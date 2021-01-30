@@ -2,5 +2,4 @@
 - another line
 - update
 - Tak
-- Filmik
-- Film5
+-Bazy Danych
